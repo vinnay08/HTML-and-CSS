@@ -1,0 +1,13 @@
+
+/* Unvisited link */
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+
+/* Visited link */
+a:visited {
+    color: purple;
+    text-decoration: none;
+}
+

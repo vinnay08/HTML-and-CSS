@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.form{
+   text-align: center;
+   color: red;
+}
+body{
+      background-color: aliceblue;
+}
+
+input {
+    margin-left: 140px;
+    margin-top: 30px;
+    width: 250px;
+}
+
+.main {
+  
+    margin-left: 40px;
+}
+#email{
+  
+    margin-left: 170px;
+}
+
+.radio1 {
+    margin-left: 160px;
+    width: 20px;
+
+}
+
+.radio2 {
+    margin-left: 20px;
+    width: 20px;
+}
+
+.option {
+    margin-left: 130px;
+}
+
+.checkbox {
+    margin-left: -41px;
+}
+
+.card-1 {
+    margin-left: -100px;
+}
+
+.date {
+    margin-left: 129px;
+}
+
+.Address {
+    margin-left: 220px;
+}
+
+.city {
+    margin-left: 180px;
+}
+
+.Areapin {
+    margin-left: 150px;
+}
+
+.state {
+    margin-left: 175px;
+}
+
+button {
+    background-color: green;
+    color: white;
+}
+.password{
+    margin-left: 150px;
+}
